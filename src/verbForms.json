@@ -1,0 +1,58 @@
+{
+  "go": {
+    "infinitive": "go",
+    "past": "went",
+    "pastPart": "gone",
+    "present": "goes",
+    "gerund": "going"
+  },
+  "stand": {
+    "infinitive": "stand",
+    "past": "stood",
+    "pastPart": "stood",
+    "present": "stands",
+    "gerund": "standing"
+  },
+  "shoot": {
+    "infinitive": "shoot",
+    "past": "shot",
+    "pastPart": "shot",
+    "present": "shoots",
+    "gerund": "shooting"
+  },
+  "climb": {
+    "infinitive": "climb",
+    "past": "climbed",
+    "pastPart": "climbed",
+    "present": "climbs",
+    "gerund": "climbing"
+  },
+  "come": {
+    "infinitive": "come",
+    "past": "came",
+    "pastPart": "come",
+    "present": "comes",
+    "gerund": "coming"
+  },
+  "run": {
+    "infinitive": "run",
+    "past": "ran",
+    "pastPart": "run",
+    "present": "runs",
+    "gerund": "running"
+  },
+  "take": {
+    "infinitive": "take",
+    "past": "took",
+    "pastPart": "taken",
+    "present": "takes",
+    "gerund": "taking"
+  },
+  "drive": {
+    "infinitive": "drive",
+    "past": "drove",
+    "pastPart": "driven",
+    "present": "drives",
+    "gerund": "driving"
+  }
+}

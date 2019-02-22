@@ -1,0 +1,108 @@
+{
+  "0": {
+    "sentence":"I have never climbed up a mountain.",
+    "verb":["climb"]
+  },
+  "1":{
+    "sentence":"She took up tennis at the age of 11",
+    "verb":["take"]
+  },
+  "2":{
+    "sentence":"Stand up and introduce yourself.",
+    "verb":["stand"]
+  },
+  "3":{
+    "sentence":"Sales went up dramatically last year",
+    "verb":["go"]
+  },
+  "4":{
+    "sentence":"I can't believe how much your daughter has shot up since the last time I saw her. She's so tall now.",
+    "verb":["shoot"]
+  },
+  "5":{
+    "sentence":"What has this monetary expansion financed? In the first place it financed a boom, helping to win the last election. Around a fifth of the increase was taken up in greater activity, which resulted in a sharp fall in unemployment.",
+    "verb":["take"]
+  },
+  "6":{
+    "sentence":"Yet in a public place it will not take up any space .",
+    "verb":["take"]
+  },
+  "7":{
+    "sentence":"Amanda stood up again, crossed the room, took a blue bowl of chrysanths from the coffee table and carried them across the room to the dresser.",
+    "verb":["stand", "take"]
+  },
+  "8":{
+    "sentence":"She was saying, ‘You can come up to my room if you like. I've got a lovely mirror. It's much better than downstairs.’",
+    "verb":["come"]
+  },
+  "9":{
+    "sentence":"Greek bidders descended on the sale yesterday and drove up prices.",
+    "verb":["drive"]
+  },
+  "10":{
+    "sentence":"Two honest critics can be given as exceptions, the first a Japanese who recorded a negative reaction to a picture which did not come up to his standards of meaningful symbolism.",
+    "verb":["come"]
+  },
+  "11":{
+    "sentence":"Two of the volunteers ran up the white flag and couldn't stay the court.",
+    "verb":["run"]
+  },
+  "12":{
+    "sentence":"Things that take up no more space than a cigarette packet can now have vast amounts of data in them.",
+    "verb":["take"]
+  },
+  "13":{
+    "sentence":"Rabkrin (the Central Workers' and Peasants' Inspectorate) calculated that at the start of 1923 from 20 to 26 per cent of all village Soviet business lay in this sphere, whereas cultural and commune activities took up only 5 to 10 per cent of their time.",
+    "verb":["take"]
+  },
+  "14":{
+    "sentence":"Something's worrying you. It must be money. So why run up an even more expensive bill?",
+    "verb":["run"]
+  },
+  "15":{
+    "sentence":"Carmella's head shot up. Her expression was angry.",
+    "verb":["shoot"]
+  },
+  "16":{
+    "sentence":"There was much criticism of the time taken up in the Commons by these devolution measures, and also of the careless drafting of two bills which were likely to produce a legal and constitutional nightmare.",
+    "verb":["take"]
+  },
+  "17":{
+    "sentence":"AT RONNIE SCOTT's Club last night I was chatting to some of the members, insofar as one could hear one's self talk above the noise of the musicians, when the subject of London transport came up.",
+    "verb":["come"]
+  },
+  "18":{
+    "sentence":"With a top capacity of some 75 litres it's large enough for a week's backpacking, or even extended expedition use, although I do have some doubts as to whether it could stand up to the rigours of expedition life.",
+    "verb":["stand"]
+  },
+  "19":{
+    "sentence":"Jack and Jill went up the hill to fetch a pail of water, Jack fell down and broke his crown and Jill came tumbling after.",
+    "verb":["go"]
+  },
+  "20":{
+    "sentence":"He was still doing it over an hour later, frantically trying to remember everything and wishing he had somewhere to write it all down, when there was a sound of feet running up the stairs.",
+    "verb":["run"]
+  },
+  "21":{
+    "sentence":"When you're a policeman, if something comes up you deal with it yourself.",
+    "verb":["come"]
+  },
+  "22":{
+    "sentence":"Education Viewpoint: Who will stand up against the idea of student fees?",
+    "verb":["stand"]
+  },
+  "23":{
+    "sentence":"We will keep on because it is the winning way. 80 It is the best way to serve the people we want to stand up for.",
+    "verb":["stand"]
+  },
+  "24":{
+    "sentence":"Whereas, according to the United States Department of Agriculture, world production rose by 4.5 per cent, consumption, on estimates by the International Monetary Fund, went up by only 2.6 per cent.",
+    "verb":["go"]
+  },
+  "25":{
+    "sentence":"As I gazed around the orchard the sun was coming up and there was that peculiar smell of the Normandy countryside.",
+    "verb":["come"]
+  }
+
+
+}
